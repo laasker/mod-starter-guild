@@ -30,7 +30,7 @@ StarterGuild.Announce = 0
 #
 
 StarterGuild.Horde = 1
-StarterGuild.Alliance = 2
+StarterGuild.Alliance = 1
 
 #
 #   StarterGuild.Level
